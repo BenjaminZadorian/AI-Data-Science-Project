@@ -4,7 +4,7 @@ This repository contains two machine learning coursework projects covering regre
 
 ---
 
-## 📁 Projects
+## Projects
 
 | Notebook | Topic | Type |
 |---|---|---|
@@ -13,7 +13,7 @@ This repository contains two machine learning coursework projects covering regre
 
 ---
 
-## 🌡️ Project 1: Max Temperature Prediction
+## Project 1: Max Temperature Prediction
 
 **Notebook:** `Max-Temp-Prediction.ipynb`
 
@@ -57,7 +57,7 @@ Predicts the daily maximum temperature (TMAX) at LaGuardia Airport using histori
 
 ---
 
-## 🕵️ Project 2: Fake Job Posting Detection
+## Project 2: Fake Job Posting Detection
 
 **Notebook:** `Fake-Job-Posting-Prediction.ipynb`
 
@@ -113,7 +113,7 @@ Four configurations were tested, varying batch size, learning rate, and dropout 
 
 ---
 
-## 🛠️ Requirements
+## Requirements
 
 ```bash
 pip install pandas numpy matplotlib seaborn scikit-learn tensorflow nltk
@@ -122,11 +122,3 @@ pip install pandas numpy matplotlib seaborn scikit-learn tensorflow nltk
 Both notebooks were developed in **Google Colab** and reference datasets stored in Google Drive. Update the file paths in the data-loading cells if running locally.
 
 ---
-
-## 📂 Repository Structure
-
-```
-├── Max-Temp-Prediction.ipynb
-├── Fake-Job-Posting-Prediction.ipynb
-└── README.md
-```
